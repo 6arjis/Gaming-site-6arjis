@@ -147,6 +147,50 @@ li{
     background-color:wheat;
     color: deeppink;
 }
+footer{
+    background: #0B0223;
+    border-radius: 25px;
+    margin: 20px;
+}
+.foot1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding-top:  40px;
+}
+.para{
+    color: white;
+}
+.foot2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+}
+.foot3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+}
+.foot4{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+}
+.paragraph{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
 
 
 /* Responcive  */
