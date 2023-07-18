@@ -9,17 +9,24 @@ nav{
     background-color: beige;
     padding: 10px;
 }
+#G{
+    color: deeppink;
+    font-size: 30px;
+}
 .header-logo{
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 span{
-    color:deeppink
+    color:darkslateblue;
+    font-size: 80px;
 }
 .header-content{
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    padding: 8px;
 }
 .div{
     border: 1px solid grey;
@@ -27,5 +34,35 @@ span{
     border-radius: 5px;
     justify-content: space-between;
     background-color: gainsboro;
-
+    padding: 10px;
+}
+.buttons{
+    display: flex;
+    margin: 25px;
+    
+}
+.sign{
+      background-color: deeppink;
+      color: whitesmoke;
+      height: 40px;
+      width: 80px;
+      border-radius: 20px;
+      border: 0px;
+}
+.rogue{
+     background-color: aqua;
+     color: whitesmoke;
+     height: 40px;
+      width: 80px;
+     border-radius: 20px;
+     border: 0px;
+}
+.second{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color:wheat;
+}
+li{
+    font-size: 25px;
 }
