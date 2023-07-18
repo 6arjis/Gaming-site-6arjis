@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: beige;
+    padding: 10px;
+}
+.header-logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+span{
+    color:deeppink
+}
+.header-content{
+    display: flex;
+    justify-content: space-around;
+}
+.div{
+    border: 1px solid grey;
+    display: flex;
+    border-radius: 5px;
+    justify-content: space-between;
+    background-color: gainsboro;
+
+}
