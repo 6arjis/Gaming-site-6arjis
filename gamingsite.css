@@ -79,7 +79,6 @@ li{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-
 .funnyv{
     display: flex;
     justify-content: space-evenly;
@@ -188,6 +187,7 @@ footer{
     text-align: center;
     padding: 20px;
 }
+
 
 
 
